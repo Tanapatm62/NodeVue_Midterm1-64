@@ -2,7 +2,7 @@
   "name": "nv-webblog-client",
   "version": "1.0.0",
   "description": "nodejs veujs webblog client",
-  "author": "nattapon kumyaito",
+  "author": "tanapat maneerod",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
